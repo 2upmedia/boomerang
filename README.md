@@ -31,6 +31,8 @@ pip install git+https://github.com/2upmedia/boomerang
 Python 2.7+
 
 ## Me
-Twitter: @2upmedia
+Twitter: [@2upmedia](www.twitter.com/2upmedia)
+
 LinkedIn: www.linkedin.com/in/2upmedia
+
 Website: www.2upmedia.com
