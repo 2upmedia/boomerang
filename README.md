@@ -24,7 +24,7 @@ config.ENV = 'production' # raises AttributeError
 
 ## Installation
 
-pip install git+https://github.com/2upmedia/boomerang
+`pip install git+https://github.com/2upmedia/boomerang`
 
 ## Support
 
