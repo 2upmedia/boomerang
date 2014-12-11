@@ -4,7 +4,7 @@ import sys
 
 if sys.version_info.major == 2 and sys.version_info.minor < 7:
     print 'Sorry, Python < 2.7 is not supported'
-    exit()
+    sys.exit(1)
 
 setup(
     name='boomerang',
