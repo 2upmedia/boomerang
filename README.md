@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/2upmedia/boomerang.svg)](https://travis-ci.org/2upmedia/boomerang)
+
 # Boomerang
 
 Constant-like class that allows immutable values. It will always come back the same way.
